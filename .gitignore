@@ -1,0 +1,5 @@
+/target
+/dist
+/assets/resume.pdf
+Cargo.lock
+.DS_Store

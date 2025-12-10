@@ -1,0 +1,109 @@
+profile:
+  name: "Mykyta Voronyi"
+  title: "Senior DevOps Engineer | Platform & Infrastructure | Rust & Go Developer"
+  summary: "Senior DevOps Engineer with 10+ years designing and implementing cloud infrastructure, CI/CD pipelines, and Infrastructure as Code solutions. Expertise in Kubernetes orchestration, Terraform automation, and building high-performance systems in Rust and Go. Proven track record of reducing infrastructure costs by 30%, achieving 99.99% uptime, and improving deployment velocity by 30%. Strong background in DevSecOps practices and security compliance."
+
+skills:
+  cloud:
+    - "AWS"
+    - "GCP"
+    - "Cloud Architecture"
+    - "Infrastructure as Code"
+  devops:
+    - "Kubernetes"
+    - "Docker"
+    - "Terraform"
+    - "Ansible"
+    - "Helm"
+    - "CI/CD Pipelines"
+    - "GitOps"
+    - "Jenkins"
+    - "ArgoCD"
+  monitoring:
+    - "ELK Stack"
+    - "Prometheus"
+    - "Grafana"
+    - "Datadog"
+    - "Observability"
+  languages:
+    - "Rust"
+    - "Go"
+    - "Python"
+    - "Bash"
+    - "Groovy"
+  rust:
+    - "Tokio"
+    - "Axum"
+    - "Actix-web"
+    - "Leptos"
+    - "WebAssembly"
+    - "gRPC"
+    - "Embedded Systems"
+  databases:
+    - "PostgreSQL"
+    - "MySQL"
+    - "MongoDB"
+    - "Cassandra"
+    - "Redis"
+    - "RabbitMQ"
+  security:
+    - "DevSecOps"
+    - "SAST/DAST"
+    - "Vulnerability Management"
+    - "Security Compliance"
+
+experience:
+  - company: "Company under NDA"
+    position: "DevOps Engineer"
+    period: "Nov 2024 — Present"
+    location: "USA"
+    highlights:
+      - "Architected Infrastructure as Code solutions using Terraform and Ansible for fintech platform"
+      - "Managed 100+ bare-metal servers optimized for AI/ML workloads with 99.9% availability"
+      - "Implemented CI/CD pipelines with Docker, Packer, and automated configuration management"
+      - "Refactored legacy Ansible codebase reducing deployment time by 40% and technical debt"
+      - "Designed AWS S3 data migration strategy handling 10TB+ high-volume transfers"
+
+  - company: "Algo House"
+    position: "DevOps Consultant"
+    period: "Oct 2023 — Nov 2024"
+    location: "USA"
+    highlights:
+      - "Led cloud migration from Germany to USA achieving 25% improvement in latency and scalability"
+      - "Architected CI/CD pipelines using Kubernetes, Rancher 2, and GitLab increasing deployment velocity by 30%"
+      - "Established GitOps practices and automated release processes for microservices platform"
+
+  - company: "GeoComply USA Inc"
+    position: "Tech Lead DevSecOps"
+    period: "Mar 2020 — Oct 2023"
+    location: "USA"
+    highlights:
+      - "Led Infrastructure as Code initiative with Terraform achieving 99.99% uptime SLA"
+      - "Reduced AWS infrastructure costs by 30% through monitoring optimization and rightsizing"
+      - "Designed microservices architecture on Kubernetes improving system throughput by 35%"
+      - "Implemented DevSecOps practices with SAST/DAST tools reducing vulnerabilities by 50%"
+      - "Mentored team of 5 engineers on cloud-native technologies and security best practices"
+
+  - company: "Intela"
+    position: "Sr. DevSecOps Engineer"
+    period: "May 2013 — Feb 2020"
+    location: "Ukraine"
+    highlights:
+      - "Built automated CI/CD pipelines for AI-powered systems ensuring reliable deployments"
+      - "Implemented Prometheus and Grafana monitoring reducing incident response time by 25%"
+      - "Automated developer environments with Docker reducing onboarding time by 40%"
+      - "Designed high-availability PostgreSQL architecture handling 30% more peak load"
+      - "Established security compliance processes and vulnerability management workflows"
+
+contacts:
+  - platform: "Email"
+    url: "mailto:nick.voronoy@gmail.com"
+    label: "nick.voronoy@gmail.com"
+
+  - platform: "Schedule"
+    url: "https://calendar.app.google/dPpRCzBGmqqZEX1M7"
+    label: "Schedule a Call"
+
+  - platform: "LinkedIn"
+    url: "https://linkedin.com/in/mykyta-voronyi-devops/"
+    label: "mykyta-voronyi-devops"
